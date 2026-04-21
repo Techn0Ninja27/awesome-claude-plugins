@@ -1,7 +1,7 @@
 <h1 align="center">Awesome Claude Code Plugins</h1>
 
 <p align="center">
-<a href="https://platform.composio.dev/?utm_source=Github&utm_medium=Banner&utm_content=AwesomePlugins">
+<a href="https://dashboard.composio.dev/login?utm_source=Github&utm_medium=Banner&utm_content=AwesomePlugins">
   <img width="1280" alt="Awesome Claude Plugins" src="./cover_image.png">
 </a>
 </p>
@@ -58,7 +58,7 @@ claude --plugin-dir ./connect-apps
 /connect-apps:setup
 ```
 
-Paste your API key when asked. (Get a free key at [platform.composio.dev](https://platform.composio.dev?next_page=/settings/api-keys))
+Paste your API key when asked. (Get a free key at [dashboard.composio.dev](https://dashboard.composio.dev/login?utm_source=Github&utm_medium=Banner&utm_content=AwesomePlugins)
 
 ### 3. Try It
 
