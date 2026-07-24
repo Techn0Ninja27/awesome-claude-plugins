@@ -36,13 +36,16 @@
 A curated list of production-ready plugins for Claude Code to supercharge your development workflow.
 </p>
 
-> **Want plugins that do more than generate text?** The [connect-apps](./connect-apps) plugin lets Claude send emails, create issues, post to Slack, and take actions across 500+ apps.
+> **Want plugins that do more than generate text?** The [connect-apps](./connect-apps) plugin lets Claude send emails, create issues, post to Slack, and take actions across 1000+ apps.
 
 ---
 
-## Quickstart: Connect Claude to 500+ Apps
+## Give your skills real-world actions
 
-The **[connect-apps](./connect-apps)** plugin lets Claude perform real actions - send emails, create issues, post to Slack. It handles auth and connects to 500+ apps using Composio under the hood.
+Skills tell your agent **how** to work. An MCP Gateway gives it secure access to the tools it needs.
+
+Composio [MCP Gateway](https://composio.dev/mcp-gateway) provides a single MCP endpoint for 1,000+ integrations with built-in authentication, team-based access controls, audit logs, and production-ready reliability.
+
 
 ### 1. Clone & Run
 
@@ -62,7 +65,7 @@ Paste your API key when asked. (Get a free key at [dashboard.composio.dev](https
 
 ### 3. Try It
 
-Ask Claude to send you a test email. If you receive it, Claude is now connected to 500+ apps.
+Ask Claude to send you a test email. If you receive it, Claude is now connected to 1000+ apps.
 
 **[See all supported apps →](https://composio.dev/tools)**
 
@@ -94,7 +97,7 @@ Claude Plugins are extensions that enhance Claude Code with custom slash command
 
 ### Integrations
 
-- [connect-apps](./connect-apps) - Connect Claude to any app. Send emails, create issues, post messages, update databases - take real actions across Gmail, Slack, GitHub, Notion, and 500+ services.
+- [connect-apps](./connect-apps) - Connect Claude to any app. Send emails, create issues, post messages, update databases - take real actions across Gmail, Slack, GitHub, Notion, and 1000+ services.
 - [kaggle-skill](https://github.com/shepsci/kaggle-skill) - Complete Kaggle integration — account setup, competition reports, dataset/model downloads, notebook execution, submissions, and badge collection.
 
 ### Frontend & Design
